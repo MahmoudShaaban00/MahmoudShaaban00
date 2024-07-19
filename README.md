@@ -1,8 +1,9 @@
 github-r<h1 align="center">Hi 👋, I'm MahmoudShaaban</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<img src="https://th.bing.com/th/id/OIP.T35Lrlq5x87ksxRH3BF6HQHaE8?rs=1&pid=ImgDetMain" align="center" />
-
+<p  align="center" > 
+<img src="https://th.bing.com/th/id/OIP.T35Lrlq5x87ksxRH3BF6HQHaE8?rs=1&pid=ImgDetMain" />
+</p>
 
 - 🔭 I’m currently working on [game project](http://localhost:5173/)
 
