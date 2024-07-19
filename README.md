@@ -1,4 +1,4 @@
-github-r<h1 align="center">Hi 👋, I'm MahmoudShaaban</h1>
+github-r<h1 align="center">Hi 👋, I'm Mahmoud Shaaban</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p  align="center" > 
