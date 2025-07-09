@@ -71,16 +71,10 @@
 
 <h3>📊 GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudshaaban00&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudshaaban00&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudshaaban00&" alt="GitHub Streak" />
+<p align="center">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudshaaban00&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=mahmoudshaaban00&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudshaaban00" alt="GitHub Streak" />
 </p>
 
 ---
@@ -91,6 +85,6 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahmoudshaaban00&theme=onedark" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mahmoudshaaban00&theme=onedark&row=1&column=6" alt="Trophies" />
   </a>
 </p>
