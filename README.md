@@ -78,9 +78,12 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudshaaban00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img width="33%" src="https://github-readme-stats.vercel.app/api?username=mahmoudshaaban00&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudshaaban00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Top Languages -->
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudshaaban00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=mahmoudshaaban00&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- GitHub Streak -->
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudshaaban00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
